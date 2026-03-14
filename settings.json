@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zeraorafart.aternos.me",
+    "ip": "zeraorafart.aternos.me:59218",
     "port": 59218,
     "version": "",
     "try-creative": false
